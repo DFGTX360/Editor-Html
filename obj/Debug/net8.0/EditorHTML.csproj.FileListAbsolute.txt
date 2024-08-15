@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\bin\Debug\net8.0\EditorHTML.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\bin\Debug\net8.0\EditorHTML.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\bin\Debug\net8.0\EditorHTML.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\bin\Debug\net8.0\EditorHTML.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\bin\Debug\net8.0\EditorHTML.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\EditorHTML.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\EditorHTML.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\EditorHTML.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\refint\EditorHTML.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\EditorHTML.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\EditorHTML.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\C#\Programas\EditorHTML\obj\Debug\net8.0\ref\EditorHTML.dll
